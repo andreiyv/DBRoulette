@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="json_simple-1.1">
+  <library name="annotations-android-10">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/libs/json_simple-1.1.jar!/" />
+      <root url="jar://C:/Android/sdk2/tools/support/annotations.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
