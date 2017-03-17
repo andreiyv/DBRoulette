@@ -2,25 +2,31 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\admin\Downloads\dropbox-android-sdk-1.6.3\dropbox-android-sdk-1.6.3\DBRoulette_m\json_simple-1.1.jar"
+        is-multidex="false"
+        jar="C:\Users\Andrey\AndroidStudioProjects\DBRoulette\app\libs\json_simple-1.1.jar"
         jumboMode="false"
-        revision="22.0.1"
+        optimize="true"
+        revision="25.0.0"
         sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
-        <dex dex="C:\Users\admin\Downloads\dropbox-android-sdk-1.6.3\dropbox-android-sdk-1.6.3\DBRoulette_m\app\build\intermediates\pre-dexed\debug\json_simple-1.1-ae7276078ac40fbf5fcf5b59931b238405893969.jar" />
+        <dex dex="C:\Users\Andrey\AndroidStudioProjects\DBRoulette\app\build\intermediates\pre-dexed\debug\json_simple-1.1_3212f4976a9f2f11398d85c8f3889fe303454890.jar" />
     </item>
     <item
-        jar="C:\Users\admin\Downloads\dropbox-android-sdk-1.6.3\dropbox-android-sdk-1.6.3\DBRoulette_m\dropbox-android-sdk-1.6.3.jar"
+        is-multidex="false"
+        jar="C:\Users\Andrey\AndroidStudioProjects\DBRoulette\app\libs\httpmime-4.0.3.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="986e7a58e925c6f91b88ae8d3224a0550b65acc7">
-        <dex dex="C:\Users\admin\Downloads\dropbox-android-sdk-1.6.3\dropbox-android-sdk-1.6.3\DBRoulette_m\app\build\intermediates\pre-dexed\debug\dropbox-android-sdk-1.6.3-839035507b1466afc473715764d2f2a49ee72274.jar" />
-    </item>
-    <item
-        jar="C:\Users\admin\Downloads\dropbox-android-sdk-1.6.3\dropbox-android-sdk-1.6.3\DBRoulette_m\app\libs\httpmime-4.0.3.jar"
-        jumboMode="false"
-        revision="22.0.1"
+        optimize="true"
+        revision="25.0.0"
         sha1="dd1973851926925e02d0bbdf4ec0f7435d8292ce">
-        <dex dex="C:\Users\admin\Downloads\dropbox-android-sdk-1.6.3\dropbox-android-sdk-1.6.3\DBRoulette_m\app\build\intermediates\pre-dexed\debug\httpmime-4.0.3-63ec1bc5a3741b46bb8c40decbf7e0be4ba917a7.jar" />
+        <dex dex="C:\Users\Andrey\AndroidStudioProjects\DBRoulette\app\build\intermediates\pre-dexed\debug\httpmime-4.0.3_dd71e39860b6662f5af3dec557ac3a5a7cc55478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andrey\AndroidStudioProjects\DBRoulette\app\libs\dropbox-android-sdk-1.6.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="986e7a58e925c6f91b88ae8d3224a0550b65acc7">
+        <dex dex="C:\Users\Andrey\AndroidStudioProjects\DBRoulette\app\build\intermediates\pre-dexed\debug\dropbox-android-sdk-1.6.3_ef04ebaec486244a02a732573cf77371940edb97.jar" />
     </item>
 
 </items>

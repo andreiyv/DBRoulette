@@ -25,6 +25,6 @@ dependencies {
     compile files('libs/dropbox-android-sdk-1.6.3.jar')
     compile files('libs/httpmime-4.0.3.jar')
     compile files('libs/json_simple-1.1.jar')
-    compile files('C:/Users/admin/Downloads/dropbox-android-sdk-1.6.3/dropbox-android-sdk-1.6.3/DBRoulette_m/dropbox-android-sdk-1.6.3.jar')
-    compile files('C:/Users/admin/Downloads/dropbox-android-sdk-1.6.3/dropbox-android-sdk-1.6.3/DBRoulette_m/json_simple-1.1.jar')
+  //  compile files('C:/Users/admin/Downloads/dropbox-android-sdk-1.6.3/dropbox-android-sdk-1.6.3/DBRoulette_m/dropbox-android-sdk-1.6.3.jar')
+  //  compile files('C:/Users/admin/Downloads/dropbox-android-sdk-1.6.3/dropbox-android-sdk-1.6.3/DBRoulette_m/json_simple-1.1.jar')
 }
